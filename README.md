@@ -2,23 +2,23 @@
 GTR2 Results.txt File Parser.
 
 Usage:
-'''php
+```php
 $results_file = 'your_results.txt';
 $rf = new ResultsParser($results_file);
-'''
+```
 
 Methods:
-'''php
+```php
 $results = $rf->RaceResults();
-'''
+```
 
-'''php
+```php
 $trackinformation = $rf->TrackInformation();
-'''
+```
 
-'''php
+```php
 $bestlap = $rf->BestLap();
-'''
+```
 
 The methods returns associative arrays with the relevant information. 
 RaceResults is ordered, from first to last.
