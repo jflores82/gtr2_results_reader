@@ -1,0 +1,55 @@
+//[[gMa1.000f (c)2004    ]] [[            ]]
+[Header]
+Game=GTR2
+Version=1.100
+TimeString=1988/03/25 21:22:26
+Aids=0,0,0,0,0,1,1,1,1
+
+[Race]
+RaceMode=5
+Scene=GAMEDATA\LOCATIONS\_Suzuka\Classic\Suzuka.TRK
+AIDB=GAMEDATA\LOCATIONS\_Suzuka\Classic\Suzuka.AIW
+Race Length=1.000
+Track Length=2940.7234
+
+[Slot002]
+Driver=Alain Prost
+Vehicle=Mclaren-Honda
+VehicleNumber=8811
+Team=Mclaren
+Penalty=0
+QualTime=1:04.211
+Laps=1
+Lap=(0, -1.000, 1:08.053)
+LapDistanceTravelled=2934.990967
+BestLap=1:08.053
+RaceTime=1:33:39.000
+
+
+[Slot000]
+Driver=Ayrton Senna
+Vehicle=Mclaren-Honda
+VehicleNumber=8812
+Team=Mclaren
+Penalty=0
+QualTime=0:57.796
+Laps=1
+Lap=(0, -1.000, 1:05.278)
+LapDistanceTravelled=2924.996582
+BestLap=0:56.204
+RaceTime=1:33:26.942
+
+[Slot001]
+Driver=Thierry Boutsen
+Vehicle=Benetton-Ford
+VehicleNumber=8820
+Team=Benetton
+Penalty=0
+QualTime=0:56.576
+Laps=1
+Lap=(0, -1.000, 1:03.956)
+LapDistanceTravelled=2757.490723
+BestLap=0:57.035
+RaceTime=1:26:59.109
+
+[END]
