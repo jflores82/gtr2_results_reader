@@ -37,7 +37,7 @@ class ResultsParser {
 	
 	// Parse the ini into an array //
 	private function ParseFile() {
-		$this->ini_array = parse_ini_file("temp.txt", true); //Load the results into a array //
+		$this->ini_array = parse_ini_file($this->$results_file, true); //Load the results into a array //
 	}
 
 	
